@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/studying.gif" width="500px" height="650px">
+  <img src="./assets/studying.gif" width="400px" height="550px">
 </p>
 
 ---
