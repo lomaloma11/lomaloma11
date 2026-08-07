@@ -73,7 +73,7 @@ Pipeline de dados e Machine Learning aplicado a dados de Fórmula 1.
 ## Contato
 
 <p align="center">
-  <a href="www.linkedin.com/in/palloma-belmiro-3a850a287">LinkedIn</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:pallomaketernnyn1309@gmail.com">Email</a>
+  <a href="mailto:pallomaketernnyn1309@gmail.com">
+    Email
+  </a>
 </p>
