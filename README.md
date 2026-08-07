@@ -1,11 +1,13 @@
 <p align="center">
-  <img src="./assets/studying.gif" width="500px" height="650px">
-</p>
-
-<p align="center">
   <strong>Estudante de Tecnologia da Informação</strong>
   <br>
   Engenharia de Dados · Machine Learning · Desenvolvimento de Software
+</p>
+
+---
+
+<p align="center">
+  <img src="./assets/studying.gif" width="500px" height="650px">
 </p>
 
 ---
